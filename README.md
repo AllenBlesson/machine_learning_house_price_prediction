@@ -24,7 +24,4 @@ Dataset
 
 Target: median_house_value
 
-Author
 
-Allen Blesson
-Computer Science — Artificial Intelligence Specialization, Ontario Tech University
