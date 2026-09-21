@@ -2,7 +2,7 @@ A machine learning project that predicts house prices using the California Housi
  
 ## Overview
  
-This project explores, cleans, and models housing data to predict `median_house_value`. It walks through the full ML workflow — from data cleaning to model comparison.
+This project explores, cleans, and models housing data to predict `median_house_value`. It walks through the full ML workflow from data cleaning to model comparison.
  
 ## What I Did
  
@@ -10,6 +10,8 @@ This project explores, cleans, and models housing data to predict `median_house_
 - Handled missing values
 - Split data into training and testing sets
 - Built and compared machine learning models
+- Created visualizations to explore feature relationships and distributions
+
 ## Dataset
  
 | | |
